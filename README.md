@@ -6,8 +6,8 @@
 
 ### How to use it
 Run:
-- docker compose up
+- docker compose up --build
 
-Then open application in browser
+Then open the application in a browser
 
 - localhost:3001 
