@@ -1,10 +1,13 @@
 # Docker_DCA_Prep_Course_React
-# Written by Alireza Mohammadpour
-This is a react app using docker compose and provide all topics for DCA prep exam. 
+*Developed by Alireza Mohammadpour*
 
-## use the following to run the project
+
+## This is a React app using Docker Compose and provides all topics for the DCA prep exam. 
+
+### How to use it
+Run:
 - docker compose up
 
-then open application
+Then open application in browser
 
 - localhost:3001 
